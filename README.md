@@ -1,5 +1,4 @@
 # worksProject
 
-python3.9, 
-Django, 
-Postgres
+python3.11, 
+Django,
